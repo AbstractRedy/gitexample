@@ -6,7 +6,7 @@ namespace ConsoleAppForGit
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Коммит 3");
+            Console.WriteLine("Коммит 4");
         }
     }
 }
