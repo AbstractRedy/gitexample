@@ -8,6 +8,7 @@ namespace ConsoleAppForGit
         {
             Console.WriteLine("Привет до коммита");
             Console.ReadKey();
+            ghghghghh
         }
     }
 }
